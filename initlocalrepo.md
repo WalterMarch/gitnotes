@@ -1,6 +1,6 @@
 # Initialize a local repository
 
-cd to the directory
+cd to the repository directory
 
 run:  
 ``` 
