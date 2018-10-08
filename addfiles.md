@@ -9,3 +9,5 @@ To track/stage filename specifically, run:
 ```
 git add filename
 ```
+
+(Essentially ADDing files to the Commit?)
