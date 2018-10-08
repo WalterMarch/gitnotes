@@ -1,10 +1,10 @@
 # Commit files to the current branch
 
-After they have been added: 
+After they have been added to the commit: 
 ```
 git commit –m "message here" 
 ```
-Add and commit: 
+Stage and commit: 
 ```
 git commit –a –m "message here"
 ```
