@@ -1,11 +1,11 @@
 # adding files to track
 
-To add (track) all the files in the directory, run:
+To add (track or stage) all the files in the directory, run:
 ```
 git add *
 ```
 
-To track filename specifically, run:
+To track/stage filename specifically, run:
 ```
 git add filename
 ```
