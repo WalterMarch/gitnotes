@@ -12,5 +12,5 @@ git remote add origin remote_repository_URL
 ```
 * push the changes from the local to the remote (github):
 ```
-git push origin master
+git push -u origin master
 ```
